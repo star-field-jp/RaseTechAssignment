@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-
+//Listを実装
         List<Integer> list = new ArrayList<>();
 
         list.add(1);
