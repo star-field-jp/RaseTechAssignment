@@ -14,6 +14,9 @@ public class Main {
         list.add(2);
         list.add(3);
 
+        //例外(IndexOutOfBoundsException)を追加
+        list.set(3, 4);
+
         System.out.println(list);
 
         Map<String, Integer> map = new HashMap<>();
