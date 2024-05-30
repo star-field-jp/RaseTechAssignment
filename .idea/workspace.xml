@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4afee3e3-d723-4117-97b2-35dab0870793" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/starfield/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/starfield/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +80,12 @@
     &quot;assignee&quot;: &quot;star-field-jp&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/star-field-jp/RaseTechAssignment.git&quot;,
-    &quot;accountId&quot;: &quot;52278cef-17e9-442a-b733-4b8c282e28a5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/star-field-jp/RaseTechAssignment.git",
+    "accountId": "ad8ac8a5-0620-45ba-bfcf-da66b77fd1f0"
   }
-}</component>
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -112,10 +112,10 @@
     "Gradle.RaseTechAssignment のビルド.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/markdown",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hoshinoyui/IdeaProjects/RaiseTech3/RaseTechAssignment",
+    "last_opened_file_path": "C:/Users/hoshi/IdeaProjects/RaiseTech3/RaseTechAssignment",
     "onboarding.tips.debug.path": "C:/Users/hoshi/IdeaProjects/RaiseTech3/src/main/java/com/starfield/Main.java",
     "rearrange.code.on.save": "true",
     "settings.editor.selected.configurable": "actions.on.save",
@@ -126,19 +126,6 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.starfield" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
